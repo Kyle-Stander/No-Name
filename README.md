@@ -3,5 +3,5 @@
 * Daniel Ward
 * Carson Bastian
 * Yassine Benaddi
-*
-*
+* Kyle Stander
+
